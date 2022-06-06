@@ -68,7 +68,7 @@ function draw() {
     }
   }
 
-  gd.sortColors(colors, sortMode);
+  // gd.sortColors(colors, sortMode);
 
   var i = 0;
   for (var gridY = 0; gridY < tileCount; gridY++) {
